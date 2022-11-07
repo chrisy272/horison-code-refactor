@@ -7,23 +7,23 @@
 body {
     background-color: #d9dcd6;
 }
-/*  */
+/* This is the header with padding, font and background color */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* this is the h1 that has font size settings */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* this is the h1 .seo wiht color settings */
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* this is the header div with padding and margin setting  */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* this class has height, width, margin and background settings */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,23 +58,23 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* this class has float and margin settings */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* this class has float and margin settings */
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/* this class has width, display and margin settings */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* this class has margin, padding,clear, float, width, height, font type, and background color settings  */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -85,55 +85,55 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* this class has margin and color settings */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* this class has margin and color settins */
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* this class has margin and color settings */
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* this class has margin and text alignment settings */
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* this class has margin and text alignment settings */
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* this class has margin and text alignment settings */
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* this class has display, margin, and max width settings */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* this class has display, margin and max width settings */
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* this class has display, margin and max width settings */
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* this class has margin, padding, height, font type, background color and color settings */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -142,7 +142,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* this class has margin, padding, height, font type, background color, and color settings */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -151,7 +151,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* this class has margin, padding, height, font type, background color and color settings */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -160,41 +160,41 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* this class has max height settings */
 .search-engine-optimization img {
     max-height: 200px;
 }
-
+/* this class has max height settings */
 .online-reputation-management img {
     max-height: 200px;
 }
-
+/* this class has max height settings */
 .social-media-marketing img {
     max-height: 200px;
 }
-
+/* this class has margin and font size settings */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* this class has margin settings*/
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*  this class has margin and font size settings*/
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* this clas has padding, clear, font type, and text alignment settings */
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/*  this class has font size settings*/
 .footer h2 {
     font-size: 20px;
 }
